@@ -20,13 +20,7 @@ Menu
 
 
 ## Informações
-Um simples conversor de algumas.
 
-* Peso Argentino   ==> Dólar
-* Dólar           ==> Real Brasileiro
-* Real Brasileiro ==> Dólar
-* Dólar           ==> Peso Colombiano
-* Peso Colombiano ==> Dólar
 
 ## Como utilizar
 
