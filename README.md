@@ -1,14 +1,14 @@
 
 
-<div align="center">
-  <h1 align="center">
+<div>
+  <h1>
      Projeto LiterAlura
     <br />
     <br />
   </h1>
 </div>
 
-<div align="center"> 
+<div> 
 
 Menu
 
