@@ -19,7 +19,7 @@ Menu
 </div>
 
 
-## Informações
+
 
 
 ## Como utilizar
