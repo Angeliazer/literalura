@@ -25,12 +25,7 @@ Menu
 * Opção 1:
   Selecionando essa opção, e informando o nome do livro a ser pesquisado, será executada uma busca na API gutendex, trazendo as informações do livro.
   Logo em seguida, as informações são gravadas no banco de dados Postgree.
-* 
-* Peso Argentino   ==> Dólar
-* Dólar           ==> Real Brasileiro
-* Real Brasileiro ==> Dólar
-* Dólar           ==> Peso Colombiano
-* Peso Colombiano ==> Dólar
+
 
 ## Como utilizar
 
@@ -39,3 +34,4 @@ Menu
   <p>Informado o valor, será apresentado o valor convertido para a moeda escolhida.</p>
 
 ![Java](https://img.shields.io/badge/Language-Java-red?logo=java&logoColor=white)
+</div>
