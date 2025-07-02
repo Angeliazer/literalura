@@ -22,7 +22,6 @@ Menu
 ## Informações
 Um simples conversor de algumas.
 
-* Dólar            ==> Peso Argentino
 * Peso Argentino   ==> Dólar
 * Dólar           ==> Real Brasileiro
 * Real Brasileiro ==> Dólar
