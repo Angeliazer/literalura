@@ -14,6 +14,7 @@ Menu
 
 ![image](https://github.com/user-attachments/assets/39c5e8e2-c5d0-42fe-9201-5a032ac56b8c)
 
+</div>
 
 <p>Opções</p>
 <p>1 - Será solicitado o título do livro a pesquisar. Encontrado, irá exibir as informações do mesmo, como também será persistido no bando de dados.</p>
