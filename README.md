@@ -17,18 +17,12 @@ Menu
 
 
 </div>
-
-
-
-
-
 ## Como utilizar
-convertido
 <div>
  <p>Opções
 </p>
  <p>1 - Será solicitado o título do livro a pesquisar</p>.
-    Encontrado, irá exibir as informações do mesmo, como será persistido no bando de dados as informações.
+    Encontrado, irá exibir as informações do mesmo, como também será persistido no bando de dados as informações.
 
  
 
