@@ -18,7 +18,7 @@ Menu
 
 <p>Opções</p>
 <p>1 - Será solicitado o título do livro a pesquisar. Encontrado, irá exibir as informações do mesmo, como também será persistido no bando de dados.</p>
-   
+
 <p>2 - Será listado todos os livros registrados no banco de dados.</p>
 
 <p>3 - Lista todos os autores registrados.</p>
@@ -29,7 +29,7 @@ Menu
 
 
 
- 
+
 
 ![Java](https://img.shields.io/badge/Language-Java-red?logo=java&logoColor=white)
 </div>
