@@ -28,6 +28,11 @@ Menu
 
 <p>3 - Lista todos os autores registrados.</p>
 
+<p>4 - Informado o ano a será listado os autores vivos no ano informado.</p>
+
+<p>5 - Lista os livros em um determinado idioma (en, es, fr, pt), não encontrado, é exibida uma mensagem informando a não existência do livro no idioma solicitado.</p>
+
+
 
  
 
